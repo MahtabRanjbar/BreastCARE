@@ -22,11 +22,6 @@ For more information about the dataset, you can refer to the [Kaggle Dataset](ht
 
 After generating the evaluation reports, you can find them in the `report` folder. The reports provide insights into the model's performance and accuracy in predicting breast cancer likelihood. The available reports include:
 
-- **confusion_matrix.png**: A visual representation of the confusion matrix, summarizing the model's predictions and the actual labels.
-- **classification_report.txt**: A text file containing the classification report, which includes precision, recall, F1-score, and support for each class.
-- **roc_curve.png**: A visual representation of the ROC curve, showing the trade-off between the true positive rate and false positive rate.
-
-You can also find a detailed report in the `report.md` file, which provides an overview of the evaluation metrics and their interpretation.
 
 ## Installation
 
